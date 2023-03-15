@@ -2,7 +2,7 @@
   "name": "qr-code",
   "version": "1.0.0",
   "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
-  "main": "index.js",
+  "default": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html  --dist-dir ./dist"
